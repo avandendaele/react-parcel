@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>React starter app</title>
+    <link rel="stylesheet" href="b4d944d175684025271e8fd6deca06dc">
+    <link rel="stylesheet" href="216e8324c075601aa2521e47ce989406">
+    <link rel="stylesheet" href="333f07d3f3602cad83366eadab96e4f5">
+  </head>
+
+  <body>
+    <div id="app"></div>
+    <script src="d0c0875237b91e69ddbbacb1a20a2519"></script>
+  </body>
+</html>
